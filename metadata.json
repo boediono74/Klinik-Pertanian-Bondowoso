@@ -1,0 +1,6 @@
+{
+  "name": "Klinik Pertanian Kabupaten Bondowoso",
+  "description": "Portal resmi pelayanan konsultasi, diagnosis hama tanaman, analisis kesuburan tanah, dan respon cepat pertanian terintegrasi Dinas Pertanian dan Ketahanan Pangan Kabupaten Bondowoso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
